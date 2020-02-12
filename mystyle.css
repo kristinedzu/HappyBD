@@ -18,38 +18,38 @@ body {
 }
 
 .kris_big {
-    width: 300px;
-    border-radius: 150px;
+    width: 335px;
+    border-radius: 170px;
     border: 4px solid white;
 }
 
 .virag_big {
-    width: 300px;
-    border-radius: 150px;
+    width: 335px;
+    border-radius: 170px;
     border: 4px solid white;
 }
 
 .bilyana_big {
-    width: 300px;
-    border-radius: 150px;
+    width: 335px;
+    border-radius: 170px;
     border: 4px solid white;
 }
 
 .chiara_big {
-    width: 300px;
-    border-radius: 150px;
+    width: 335px;
+    border-radius: 170px;
     border: 4px solid white;
 }
 
 .wiktor_big {
-    width: 300px;
-    border-radius: 150px;
+    width: 335px;
+    border-radius: 170px;
     border: 4px solid white;
 }
 
 .denes_big {
-    width: 300px;
-    border-radius: 150px;
+    width: 335px;
+    border-radius: 170px;
     border: 4px solid white;
 }
 
@@ -81,7 +81,7 @@ body {
     border-radius: ;
     position: absolute;
     z-index: -1;
-    top: 226px;
+    top: 180px;
     left: 10px;
 
 }
@@ -132,16 +132,16 @@ body {
 .modal {
     display: none;
     position: absolute;
-    right: 9%;
+    right: 4.5%;
     top: 10px;
 
 }
 
 .modal-content {
     position: absolute;
-    top: 350px;
+    top: 360px;
     left: 0;
-    height: 380px;
+    height: 340px;
     background: rgb(2, 0, 36);
     background: linear-gradient(180deg, rgba(2, 0, 36, 1) 1%, rgba(255, 1, 5, 1) 34%, rgba(82, 0, 4, 1) 100%);
     -moz-border-radius: 10px;
@@ -166,16 +166,16 @@ body {
 .modal2 {
     display: none;
     position: absolute;
-    right: 9%;
+    right: 4.5%;
     top: 10px;
 
 }
 
 .modal-content2 {
     position: absolute;
-    top: 352px;
+    top: 360px;
     left: 0;
-    height: 280px;
+    height: 230px;
     text-align: center;
     background: rgb(2, 0, 36);
     background: linear-gradient(180deg, rgba(2, 0, 36, 1) 1%, rgba(149, 184, 95, 1) 33%, rgba(39, 57, 39, 1) 80%);
@@ -200,16 +200,16 @@ body {
 .modal3 {
     display: none;
     position: absolute;
-    right: 9%;
+    right: 4.5%;
     top: 10px;
 
 }
 
 .modal-content3 {
     position: absolute;
-    top: 352px;
+    top: 360px;
     left: 0;
-    height: 305px;
+    height: 270px;
     text-align: center;
     background: rgb(31,27,21);
 background: linear-gradient(180deg, rgba(31,27,21,1) 6%, rgba(255,173,255,1) 36%, rgba(42,41,36,1) 77%);
@@ -234,14 +234,14 @@ background: linear-gradient(180deg, rgba(31,27,21,1) 6%, rgba(255,173,255,1) 36%
 .modal4 {
     display: none;
     position: absolute;
-    right: 9%;
-    top: 500px;
+    right: 4.5%;
+    top: 377px;
 
 }
 
 .modal-content4 {
     position: absolute;
-    top: -83%;
+    top: -74%;
     left: 0;
     height: 235px;
     text-align: center;
@@ -269,16 +269,16 @@ background: linear-gradient(180deg, rgba(24,4,60,1) 6%, rgba(255,206,255,1) 36%,
 .modal5 {
     display: none;
     position: absolute;
-    right: 9%;
-    top: 500px;
+    right: 4.5%;
+    top: 377px;
 
 }
 
 .modal-content5 {
     position: absolute;
-    top: -159%;
+    top: -106%;
     left: 0;
-    height: 475px;
+    height: 345px;
     text-align: center;
     background: rgb(188,17,64);
 background: linear-gradient(180deg, rgba(188,17,64,1) 0%, rgba(231,177,189,1) 37%, rgba(246,235,234,1) 63%, rgba(197,182,191,1) 75%, rgba(35,8,48,1) 100%);
@@ -292,7 +292,7 @@ background: linear-gradient(180deg, rgba(188,17,64,1) 0%, rgba(231,177,189,1) 37
     content: "";
     position: absolute;
     right: 80px;
-    top: 474px;
+    top: 344px;
     width: 0;
     height: 0;
     border-right: 26px solid transparent;
@@ -303,14 +303,14 @@ background: linear-gradient(180deg, rgba(188,17,64,1) 0%, rgba(231,177,189,1) 37
 .modal6 {
     display: none;
     position: absolute;
-    right: 9%;
-    top: 500px;
+    right: 4.5%;
+    top: 377px;
 
 }
 
 .modal-content6 {
     position: absolute;
-    top: -83%;
+    top: -75%;
     left: 0;
     height: 235px;
     text-align: center;
@@ -343,4 +343,9 @@ background: linear-gradient(180deg, rgba(98,110,97,1) 0%, rgba(255,255,255,1) 72
 
 .denest {
     padding-top: 55px;
+}
+
+.wiktort {
+    font-size: 28px;
+    padding: 10px 19px;
 }
