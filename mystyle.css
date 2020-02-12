@@ -349,3 +349,13 @@ background: linear-gradient(180deg, rgba(98,110,97,1) 0%, rgba(255,255,255,1) 72
     font-size: 28px;
     padding: 10px 19px;
 }
+
+.play_button {
+    position: absolute;
+    padding: 5px 7px 5px 9px;
+    color: gray;
+    border: 1px solid grey;
+    border-radius: 18px;
+    left: 10px; 
+    outline: none;
+}
